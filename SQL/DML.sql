@@ -61,7 +61,6 @@ INSERT INTO Bill (Amount, MemberEmail, DatePaid) VALUES
 (70, 'james@crossman.com', '2023-05-24'),
 (70, 'mary@rowles.com', '2023-12-10');
 
-
 INSERT INTO AvailableDates (TrainerEmail, AvailableDate) VALUES
 ('bill@gates.com', '2024-04-02'),
 ('bill@gates.com', '2024-04-03'),
